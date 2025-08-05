@@ -56,6 +56,7 @@
         "faq-why-so-many-small-submissions": " FAQ Why so many small submissions?",
         "faq-why-not-move-to-a-newer-java-version-e-g-21": " FAQ Why not move to a newer Java version (e.g., 21)?",
         "faq-when-can-we-see-the-quiz-answers": " FAQ When can we see the quiz answers?",
+        "faq-what-if-i-missed-a-participation-task-due-to-a-legitimate-reason-e-g-falling-sick-taking-part-in-university-event": " FAQ What if I missed a participation task due to a legitimate reason? (e.g., falling sick, taking part in university event)",
         "faq-how-are-the-ip-git-tags-used-in-grading": " FAQ How are the iP git tags used in grading?",
         "faq-what-if-i-discovered-a-bug-after-i-finished-an-increment": " FAQ What if I discovered a bug after I finished an increment?",
         "faq-i-did-multiple-increments-in-the-same-commit-how-to-fix": " FAQ I did multiple increments in the same commit. How to fix?",
@@ -135,6 +136,7 @@
         "cp1-mia-team-member": "CP1. MIA team member",
         "apdx-c-faq": "Apdx C: FAQ ",
         "faqs-on-general": "FAQs on: General",
+        "faqs-on-participation": "FAQs on: Participation",
         "faqs-on-ip": "FAQs on: iP",
         "faqs-on-tutorials": "FAQs on: Tutorials",
         "faqs-on-uml": "FAQs on: UML",
@@ -509,8 +511,8 @@
         "tools-for-communication": "Tools: for communication",
         "course-email-for-course-related-queries-etc": " Course email (for course related queries, etc.)",
         "forum-for-discussions-asking-admin-questions-seeking-help-etc": " Forum (for discussions, asking admin questions, seeking help, etc.)",
-        "ms-teams-as-a-backup-if-zoom-chat-fails-for-practical-exam": " MS Teams (as a backup if Zoom chat fails, for practical exam)",
-        "tool-intellij-ide": "Tool: IntelliJ IDE",
+        "ms-teams": " MS Teams",
+        "tool-the-ide": "Tool: The IDE",
         "tool-reposense-for-authorship-tracking": "Tool: RepoSense (for authorship tracking)",
         "tool-teammates-for-peer-evaluations": "Tool: TEAMMATES (for Peer Evaluations)"
       },
@@ -861,9 +863,8 @@
       "headings": {
         "staff": "Staff",
         "damith-chatura-rajapakse": "Damith Chatura RAJAPAKSE",
-        "ganesh-neelakanta-iyer": "Ganesh Neelakanta Iyer",
-        "han-liang-wee-eric": "Han Liang Wee Eric",
-        "kim-hyeongcheol-danny": "Kim hyeongcheol (Danny)",
+        "michael-d-adams": "Michael D. Adams",
+        "prabhu-natarajan": "Prabhu NATARAJAN",
         "tzer-bin": "Tzer Bin",
         "tutors": "Tutors"
       },
