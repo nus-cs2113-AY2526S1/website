@@ -20,7 +20,7 @@
 <variable name="date_w1_start">2025-08-11</variable>
 <variable name="day_first_tutorial">Wednesday</variable>
 <variable name="recess_after_week">6</variable>
-<variable name="lecture_venue">LT16</variable>
+<variable name="lecture_venue">LT9</variable>
 <variable name="time_lecture_start">1600</variable>
 <variable name="time_lecture_end">1800</variable>
 <variable name="time_t_lecture_start">1600</variable>
