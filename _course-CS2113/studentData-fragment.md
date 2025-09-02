@@ -4,7 +4,12 @@
 ]%}
 
 {% set tutorials = [
-
+"CS2113-W10",
+"CS2113-W12",
+"CS2113-W13",
+"CS2113-W14",
+"CS2113-T10",
+"CS2113-T11"
 ]%}
 
 {% set students = [
