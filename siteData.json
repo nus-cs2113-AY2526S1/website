@@ -520,7 +520,8 @@
         "ms-teams": " MS Teams",
         "tool-the-ide": "Tool: The IDE",
         "tool-reposense-for-authorship-tracking": "Tool: RepoSense (for authorship tracking)",
-        "tool-teammates-for-peer-evaluations": "Tool: TEAMMATES (for Peer Evaluations)"
+        "tool-teammates-for-peer-evaluations": "Tool: TEAMMATES (for Peer Evaluations)",
+        "tool-watcher-for-monitoring-tp-work-distribution": "Tool: WATcher (for monitoring tP work distribution)"
       },
       "headingKeywords": {}
     },
