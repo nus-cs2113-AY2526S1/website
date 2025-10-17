@@ -1,2 +1,32 @@
 2025-10-10T07:09:25.522Z - info: Website generation started at 3:08:59 pm
 2025-10-10T07:09:33.209Z - info: Building assets...
+2025-10-10T07:09:42.448Z - info: Assets built
+2025-10-10T07:09:42.449Z - info: Generating pages...
+2025-10-10T07:10:05.224Z - debug:  
+2025-10-10T07:10:05.247Z - debug:  
+2025-10-10T07:10:05.273Z - debug:  
+2025-10-10T07:10:05.273Z - debug:  
+2025-10-10T07:10:05.274Z - debug:  
+2025-10-10T07:10:05.276Z - debug:  
+2025-10-10T07:10:05.277Z - debug:  
+2025-10-10T07:10:05.277Z - debug:  
+2025-10-10T07:10:05.291Z - debug:  
+2025-10-10T07:10:11.453Z - debug:  
+2025-10-10T07:10:16.118Z - debug:  
+2025-10-10T07:10:16.168Z - debug:  
+2025-10-10T07:10:16.822Z - debug:  
+2025-10-10T07:10:16.953Z - debug:  
+2025-10-10T07:10:17.736Z - debug:  
+2025-10-10T07:10:17.742Z - debug:  
+2025-10-10T07:10:19.658Z - debug:  
+2025-10-10T07:11:12.185Z - debug:  
+2025-10-10T07:11:31.335Z - warn: Empty reference in D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\book\gitAndGithub\log\unit-inElsewhere-asFlat.md:
+Segment '#title' in file: D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\book\gitAndGithub\log\text.md is empty
+2025-10-10T07:15:14.516Z - debug:  
+2025-10-10T07:15:47.008Z - debug:  
+2025-10-10T07:15:47.008Z - debug:  
+2025-10-10T07:16:15.279Z - info: Pages built
+2025-10-10T07:16:16.983Z - info: Site data built
+2025-10-10T07:16:16.983Z - info: Website generation complete! Total build time: 436.999s
+2025-10-10T07:16:16.986Z - info: Build success!
+2025-10-10T07:26:25.399Z - info: The website has been deployed at: https://nus-cs2113-ay2526s1.github.io/website

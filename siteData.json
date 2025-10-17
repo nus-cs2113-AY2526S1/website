@@ -723,8 +723,7 @@
         "intro-to-tp-week-10": "Intro to tP Week 10",
         "1-start-the-next-iteration": "1  Start the next iteration",
         "2-update-the-dg-with-design-details-important": "2  Update the DG with design details  IMPORTANT",
-        "3-smoke-test-catcher-important-counted-for-participation": "3  Smoke-test CATcher  IMPORTANT counted for participation",
-        "4-ensure-the-code-is-reposense-compatible": "4  Ensure the code is RepoSense-compatible"
+        "3-ensure-the-code-is-reposense-compatible": "3  Ensure the code is RepoSense-compatible"
       },
       "headingKeywords": {}
     },
