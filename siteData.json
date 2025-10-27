@@ -116,7 +116,9 @@
         "faq-how-to-choose-between-feature-design-choices": " FAQ How to choose between feature design choices?",
         "faq-pr-passed-ci-before-merging-but-fails-ci-after-merging-how-come": " FAQ PR passed CI before merging, but fails CI after merging. How come?",
         "faq-all-tests-pass-locally-but-the-same-code-fails-ci-in-the-pr-how-come": " FAQ All tests pass locally, but the same code fails CI in the PR. How come?",
-        "faq-what-time-does-the-pe-end": " FAQ What time does the PE end?",
+        "faq-isn-t-it-unreasonable-to-expect-us-to-spend-so-many-hours-for-the-pe-pe-d": " FAQ Isn't it unreasonable to expect us to spend so many hours for the PE/PE-D?",
+        "faq-isn-t-it-unfair-to-students-who-have-other-committments-during-the-pe-pe-d-period": " FAQ Isn't it unfair to students who have other committments during the PE/PE-D period?",
+        "faq-will-students-using-more-powerful-e-g-paid-tools-for-testing-will-have-an-unfair-advantage": " FAQ Will students using more powerful (e.g., paid) tools for testing will have an unfair advantage?",
         "faq-can-i-i-e-the-tester-add-more-information-about-the-bug-when-i-object-to-a-dev-team-s-response": " FAQ Can I (i.e., the tester) add more information about the bug when I object to a dev team's response?",
         "faq-what-if-the-team-rejected-my-bug-report-without-giving-a-reason": " FAQ What if the team rejected my bug report without giving a reason?",
         "faq-if-the-bug-i-reported-is-notinscope-how-does-it-affect-my-accuracy-bonus": " FAQ If the bug I reported is NotInScope, how does it affect my accuracy bonus?",
@@ -652,12 +654,13 @@
         "pe-overview": "PE Overview",
         "pe-preparation-restrictions": "PE Preparation, Restrictions",
         "pe-phase-1-bug-reporting": "PE Phase 1: Bug Reporting",
-        "pe-phase-1-part-i-product-testing-60-minutes": "→ PE Phase 1 - Part I Product Testing [60 minutes]",
+        "pe-phase-1-part-i-product-testing-60-minutes": "→ PE Phase 1 - Part I Product Testing [~60 minutes]",
         "testing-instructions-for-pe-and-pe-d": "Testing instructions for PE and PE-D",
-        "pe-phase-1-part-ii-evaluating-documents-30-minutes": "→ PE Phase 1 - Part II Evaluating Documents [30 minutes]",
-        "pe-phase-1-part-iii-overall-evaluation-15-minutes": "→ PE Phase 1 - Part III Overall Evaluation [15 minutes]",
+        "pe-phase-1-part-ii-evaluating-documents-30-minutes": "→ PE Phase 1 - Part II Evaluating Documents [~30 minutes]",
+        "pe-phase-1-part-iii-overall-evaluation-15-minutes": "→ PE Phase 1 - Part III Overall Evaluation [~15 minutes]",
         "pe-phase-1-part-iv-trimming-bugs": "→ PE Phase 1 - Part IV Trimming bugs",
         "pe-phase-2-developer-response": "PE Phase 2: Developer Response",
+        "t": "T",
         "pe-phase-3-tester-response": "PE Phase 3: Tester Response",
         "pe-phase-4-tutor-moderation": "PE Phase 4: Tutor Moderation"
       },
@@ -738,7 +741,7 @@
         "dg-possible-bugs": "DG - Possible Bugs",
         "3-deliver-v2-0-thu-oct-30th-23-59": "3  Deliver v2.0  Thu, Oct 30th 23:59",
         "4-draft-the-ppp": "4  Draft the PPP",
-        "5-attend-the-practical-exam-dry-run-during-the-lecture-on-fri-oct-31st-counted-for-participation": "5  Attend the practical exam dry run  During the lecture on Fri, Oct 31st  counted for participation"
+        "5-attend-the-practical-exam-dry-run-fri-oct-31st-16-00-18-00-counted-for-participation": "5  Attend the practical exam dry run  Fri, Oct 31st 16:00-18:00 counted for participation"
       },
       "headingKeywords": {}
     },
