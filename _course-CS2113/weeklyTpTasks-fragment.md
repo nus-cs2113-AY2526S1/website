@@ -42,7 +42,7 @@ week11: [
   {id: 'review_others_dg', deadline: 'during the tutorial', graded: true},
   {id: 'deliver_penultimate_version', deadline: get_date(date_w11_start, 3, time="23:59")},
   {id: 'draft_the_ppp'},
-  {id: 'attend_the_PED', deadline: 'During the lecture on ' + get_date(date_w11_start, 4, time=""), graded: true}
+  {id: 'attend_the_PED', deadline: get_date(date_w11_start, 4, time="16:00-18:00"), graded: true}
 ] if pe_schedule_ideal else [
   {id: 'update_ug_dg'},
   {id: 'review_others_dg', deadline: 'during the tutorial', graded: true},
