@@ -8,7 +8,7 @@
 <variable name="S">1</variable>
 <variable name="semester">AY2526S{{ S }}</variable>
 <variable name="period">2025 Aug-Nov</variable>
-<variable name="current_week">12</variable>
+<variable name="current_week">13</variable>
 
 <variable name="algolia">yes</variable>
 
