@@ -402,7 +402,7 @@ Only the `response.Accepted` bugs are counted against the dev team. While `respo
         * non-obvious duplicate
     *  {{ icon_important_big_red }} If you don't provide a justification and the tester disagrees with your response to the bug, the teaching team will have no choice but to rule in favor of the tester.
     * You may use issue comments to discuss the bug with team members.<br>
-      If there are multiple comments in the issue thread, we will take the latest comment that starts with `# T` as the team's response. If there aren't any comments starting with `# T`, we will take the latest comment as the team's response.
+      If there are multiple comments in the issue thread, we will take the latest comment that starts with `# T` as the team's response. ~~If there aren't any comments starting with `# T`, we will take the latest comment as the team's response~~.
 
 {{ show_faq("tpJustifyBugsAcceptedAsIs", is_compact=0) }}
 
