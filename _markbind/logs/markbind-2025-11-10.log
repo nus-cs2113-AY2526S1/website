@@ -1,0 +1,28 @@
+2025-11-10T06:58:33.280Z - info: Website generation (lazy) started at 2:57:53 pm
+2025-11-10T06:58:48.131Z - warn: ENOENT: no such file or directory, open 'D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2526S1!website.git\book\_markbind\variables.md'
+2025-11-10T06:58:48.133Z - warn: ENOENT: no such file or directory, open 'D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2526S1!website.git\_markbind\variables.md'
+2025-11-10T06:58:48.278Z - info: Building assets...
+2025-11-10T07:00:54.918Z - info: Assets built
+2025-11-10T07:00:54.929Z - info: Generating landing page...
+2025-11-10T07:00:58.270Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-11-10T07:01:00.203Z - info: Site data built
+2025-11-10T07:01:00.204Z - info: Website generation (lazy) complete! Total build time: 187.091s
+2025-11-10T07:01:00.905Z - info: Serving "D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\_site" at http://127.0.0.1:8080
+2025-11-10T07:01:00.906Z - info: Press CTRL+C to stop ...
+2025-11-10T07:04:41.004Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\schedule\week13\admin as some of its dependencies were changed since the last visit
+2025-11-10T07:04:41.868Z - info: Site data built
+2025-11-10T07:04:41.870Z - info: Lazy website regeneration complete! Total build time: 0.866s
+2025-11-10T07:04:45.432Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\schedule\week13\topics as some of its dependencies were changed since the last visit
+2025-11-10T07:04:45.914Z - info: Site data built
+2025-11-10T07:04:45.914Z - info: Lazy website regeneration complete! Total build time: 0.482s
+2025-11-10T07:04:49.137Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\schedule\week13\project as some of its dependencies were changed since the last visit
+2025-11-10T07:04:50.350Z - info: Site data built
+2025-11-10T07:04:50.350Z - info: Lazy website regeneration complete! Total build time: 1.213s
+2025-11-10T07:05:01.244Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\schedule\week13\tutorial as some of its dependencies were changed since the last visit
+2025-11-10T07:05:01.785Z - info: Site data built
+2025-11-10T07:05:01.786Z - info: Lazy website regeneration complete! Total build time: 0.543s
+2025-11-10T07:05:09.118Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\admin\tp-pe as some of its dependencies were changed since the last visit
+2025-11-10T07:05:11.850Z - info: Site data built
+2025-11-10T07:05:11.851Z - info: Lazy website regeneration complete! Total build time: 2.734s
+2025-11-10T07:13:45.779Z - info: Website generation started at 3:13:04 pm
+2025-11-10T07:13:52.354Z - info: Building assets...

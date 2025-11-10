@@ -1,0 +1,58 @@
+2025-10-17T07:27:41.222Z - info: Website generation (lazy) started at 3:27:13 pm
+2025-10-17T07:28:02.846Z - warn: ENOENT: no such file or directory, open 'D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2526S1!website.git\book\_markbind\variables.md'
+2025-10-17T07:28:02.849Z - warn: ENOENT: no such file or directory, open 'D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2526S1!website.git\_markbind\variables.md'
+2025-10-17T07:28:02.977Z - info: Building assets...
+2025-10-17T07:30:34.689Z - info: Assets built
+2025-10-17T07:30:34.703Z - info: Generating landing page...
+2025-10-17T07:30:37.675Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-10-17T07:30:39.541Z - info: Site data built
+2025-10-17T07:30:39.542Z - info: Website generation (lazy) complete! Total build time: 205.864s
+2025-10-17T07:30:39.823Z - info: Serving "D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\_site" at http://127.0.0.1:8080
+2025-10-17T07:30:39.824Z - info: Press CTRL+C to stop ...
+2025-10-17T07:32:45.134Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\schedule\week10\admin as some of its dependencies were changed since the last visit
+2025-10-17T07:32:46.501Z - info: Site data built
+2025-10-17T07:32:46.502Z - info: Lazy website regeneration complete! Total build time: 1.372s
+2025-10-17T07:32:49.532Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\schedule\week10\topics as some of its dependencies were changed since the last visit
+2025-10-17T07:32:53.828Z - debug:  
+2025-10-17T07:32:53.841Z - debug:  
+2025-10-17T07:32:53.842Z - debug:  
+2025-10-17T07:32:54.105Z - info: Site data built
+2025-10-17T07:32:54.105Z - info: Lazy website regeneration complete! Total build time: 4.574s
+2025-10-17T07:33:04.013Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\schedule\week10\project as some of its dependencies were changed since the last visit
+2025-10-17T07:33:06.452Z - info: Site data built
+2025-10-17T07:33:06.452Z - info: Lazy website regeneration complete! Total build time: 2.44s
+2025-10-17T07:33:16.257Z - info: Building D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\schedule\week10\tutorial as some of its dependencies were changed since the last visit
+2025-10-17T07:33:17.153Z - info: Site data built
+2025-10-17T07:33:17.154Z - info: Lazy website regeneration complete! Total build time: 0.897s
+2025-10-17T07:35:33.911Z - info: Website generation started at 3:34:45 pm
+2025-10-17T07:35:41.934Z - info: Building assets...
+2025-10-17T07:35:51.139Z - info: Assets built
+2025-10-17T07:35:51.142Z - info: Generating pages...
+2025-10-17T07:36:14.382Z - debug:  
+2025-10-17T07:36:14.384Z - debug:  
+2025-10-17T07:36:14.384Z - debug:  
+2025-10-17T07:36:14.388Z - debug:  
+2025-10-17T07:36:14.391Z - debug:  
+2025-10-17T07:36:14.395Z - debug:  
+2025-10-17T07:36:14.396Z - debug:  
+2025-10-17T07:36:14.472Z - debug:  
+2025-10-17T07:36:21.759Z - debug:  
+2025-10-17T07:36:21.759Z - debug:  
+2025-10-17T07:36:26.973Z - debug:  
+2025-10-17T07:36:27.139Z - debug:  
+2025-10-17T07:36:27.530Z - debug:  
+2025-10-17T07:36:27.607Z - debug:  
+2025-10-17T07:36:27.816Z - debug:  
+2025-10-17T07:36:27.881Z - debug:  
+2025-10-17T07:36:29.876Z - debug:  
+2025-10-17T07:37:27.586Z - debug:  
+2025-10-17T07:37:51.066Z - warn: Empty reference in D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\book\gitAndGithub\log\unit-inElsewhere-asFlat.md:
+Segment '#title' in file: D:\Teaching\CS2113\_AY2526S1\ay2526s1-website\book\gitAndGithub\log\text.md is empty
+2025-10-17T07:41:44.838Z - debug:  
+2025-10-17T07:42:21.257Z - debug:  
+2025-10-17T07:42:21.302Z - debug:  
+2025-10-17T07:42:51.235Z - info: Pages built
+2025-10-17T07:42:54.036Z - info: Site data built
+2025-10-17T07:42:54.039Z - info: Website generation complete! Total build time: 488.567s
+2025-10-17T07:42:54.040Z - info: Build success!
+2025-10-17T07:50:06.289Z - info: The website has been deployed at: https://nus-cs2113-ay2526s1.github.io/website
