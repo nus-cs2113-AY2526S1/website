@@ -54,7 +54,7 @@ week12: [
   {id: 'submit_final_deliverables', deadline: get_date(date_final_submission, time=time_final_submission)},
   {id: 'demo_the_product'},
   {id: 'prepare_for_PE'},
-  {id: 'attend_the_PE', deadline: get_date(date_w12_start, 4, time="16:00-18:00")},
+  {id: 'attend_the_PE', deadline: 'Recommended: ' + get_date(date_w12_start, 4, time="16:00-18:00")},
   {id: 'attend_the_makeup_PE', deadline: get_date(date_w12_start, 6, time="16:00-18:00")}
 ] if pe_schedule_ideal else [
   {id: 'finish_remaining_tasks'},
