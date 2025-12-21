@@ -2369,14 +2369,14 @@ Reminder: double-check to ensure the code attributed to you by RepoSense is corr
 <p/>
 {{ embed_topic("tp-pe-fragment.md#pe-preparation", "Admin " + icon_embedding + " tP → **PE Preparation, Restrictions**", "3", indent="2", type="success") }}
 
-* After reading the above 2, we ==strongly recommend you read ahead the info given in the item {{ thumb_small("5" if cs2103 else "6")}} below== as well, to know in advance what will happen during the PE itself.
+* After reading the above 2, we ==strongly recommend you read ahead the info given in the item {{ thumb_small("5" if cs2103 else "5")}} below== as well, to know in advance what will happen during the PE itself.
 </div>
 {#====================================================================================================================#}
 <span id="heading_attend_the_PE">{{ icon_individual }} Attend the practical exam</span>
 <div id="desc_attend_the_PE">
 
-* Ensure you read the instructions on **PE Preparation** (given in item {{ thumb_small("5" if cs2103 else "5")}} above)
-* Attend the practical test, to be done during the {{ lecture_name }}.
+* Ensure you read the instructions on **PE Preparation** (given in item {{ thumb_small("5" if cs2103 else "4")}} above)
+* Attend the practical test ~~, to be done during the {{ lecture_name }}~~. See details below.
 
 {{ embed_topic("tp-pe-fragment.md#pe-phases", "Admin " + icon_embedding + " tP → **PE Phases**", "3", indent="1", type="success") }}
 </div>
